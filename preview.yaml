@@ -9,7 +9,7 @@ spec:
   project: previews
   source:
     path: helm
-    repoURL: https://github.com/vfarcic/{{.REPO}}.git
+    repoURL: https://github.com/system-dev-formations/{{.REPO}}.git
     targetRevision: HEAD
     helm:
       values: |
@@ -26,4 +26,4 @@ spec:
       selfHeal: true
       prune: true
     syncOptions:
-    - CreateNamespace=true
+      - CreateNamespace=true
