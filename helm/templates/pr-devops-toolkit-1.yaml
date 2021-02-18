@@ -20,7 +20,7 @@ spec:
           host: "pr-devops-toolkit-1888.xip.io"
       version: v3
     path: helm
-    repoURL: "https://github.com/systemdevformations/devops-toolkit.git"
+    repoURL: "https://github.com/system-dev-formations/devops-toolkit.git"
     targetRevision: HEAD
   syncPolicy:
     automated:
