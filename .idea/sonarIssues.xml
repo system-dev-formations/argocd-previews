@@ -93,12 +93,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../cluster-operator/storagos-secret.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../k8s-webforce3/argocd/README.md">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../k8s-webforce3/argocd/exports">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/crd/new-crontab.yaml">
           <value>
             <set />
           </value>
@@ -148,6 +158,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-etcd-operator/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-etcd-operator/etcd-cluster-cr.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-etcd-operator/etcd-operator-crd.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-nfs/PVol.yaml">
           <value>
             <set />
@@ -173,7 +198,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-statefulSet/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-statefulSet/web.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-static-pod/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-taint-tolerations/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-taint-tolerations/node_affinity.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-taint-tolerations/other.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-taint-tolerations/pod-with-toleration.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-taint-tolerations/taint.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../k8s-webforce3/lab-taint-tolerations/vip.yaml">
           <value>
             <set />
           </value>
