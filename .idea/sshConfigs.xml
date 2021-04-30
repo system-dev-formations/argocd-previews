@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="164.132.212.92" id="45c31aaa-ab93-45b1-ad15-a33e0274e4b7" keyPath="D:\project\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="centos" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="164.132.212.92" id="45c31aaa-ab93-45b1-ad15-a33e0274e4b7" keyPath="D:\project\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="centos" />
     </configs>
   </component>
 </project>
